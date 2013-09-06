@@ -1,0 +1,38 @@
+{
+  "name": "josi-seek",
+  "description": "This is how your Hubot connects to the public internet (think: **no auth**). You can configure your preferred sources, and easily test and adapt new sources as you discover them.",
+  "version": "1.0.0",
+  "author": "Tom Bell <tomb@tomb.io>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jollyscience/josi-seek.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/jollyscience/josi-seek/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
