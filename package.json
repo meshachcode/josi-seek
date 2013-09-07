@@ -1,7 +1,7 @@
 {
   "name": "josi-seek",
   "description": "This is how your Hubot connects to the public internet (think: **no auth**). You can configure your preferred sources, and easily test and adapt new sources as you discover them.",
-  "version": "0.0.2",
+  "version": "0.0.2a",
   "author": "Jolly Science",
   "license": "MIT",
   "keywords": [
