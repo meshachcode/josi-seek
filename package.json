@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "coffee-script": "~1.6",
-    "scraper": "0.0.9",
     "htmlparser": "1.7.6",
     "soupselect": "0.2.0"
   },
