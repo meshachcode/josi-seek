@@ -1,0 +1,45 @@
+{
+  "name": "josi-seek",
+  "description": "This is how your Hubot connects to the public internet (think: **no auth**). You can configure your preferred sources, and easily test and adapt new sources as you discover them.",
+  "version": "0.0.3",
+  "author": {
+    "name": "Jolly Science"
+  },
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jollyscience/josi-seek.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jollyscience/josi-seek/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "htmlparser": "1.7.6",
+    "soupselect": "0.2.0",
+    "underscore": "*",
+    "underscore.string": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "script/test"
+  },
+  "readme": "### josi-seek\n\n[coming soon]\n\n\tnpm install josi-seek\n\nThis is how your JoSi connects to the public internet (think: **no auth**). You can configure your preferred sources, and easily test and adapt new sources as you discover them.\n\n\t- josi-seek/\n\t\t- scripts/\n\t\t\t- archer.coffee\n\t\t\t- google.coffee\n\t\t\t- jokes.coffee\n\t\t\t- pugme.coffee\n\t\t\t- wikipedia.coffee",
+  "readmeFilename": "README.md",
+  "_id": "josi-seek@0.0.2a",
+  "dist": {
+    "shasum": "ec06581030bbf30325173f0adafafd4fb3a3cd71"
+  },
+  "_from": "josi-seek@*",
+  "_resolved": "https://registry.npmjs.org/josi-seek/-/josi-seek-0.0.2a.tgz"
+}
